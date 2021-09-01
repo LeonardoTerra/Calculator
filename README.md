@@ -1,4 +1,4 @@
-# Calculator---Calculadora---Calculatrice
+# Calculator
 It's a simple calculator using HTML - CSS - JavaScript
 
 - This code is a simple calculator using HTML - CSS - JavaScript
