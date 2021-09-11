@@ -7,4 +7,4 @@ It's a simple calculator using HTML - CSS - JavaScript
 
 # Steps to execute:
 - Download the entire code (Baixe o código) (Telecharge le code)
-- Open up the index.html. (Abra Index.html) (Ouvre Index.html)
+- Open up index.html. (Abra Index.html) (Ouvre Index.html)
