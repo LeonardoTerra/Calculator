@@ -55,9 +55,9 @@ stopwatch_stop.ondblclick = () => {
 
 /* 
 What if the stopwatch runs for hours? 
--Implement the hours camp
+-Implement the hours field
 
-What if the user wants to safe his times in a database?
+What if the user wants to save his times in a database?
 -Implement SQL Scrum
 
 Beautifies the code
