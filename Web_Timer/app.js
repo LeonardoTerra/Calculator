@@ -1,14 +1,14 @@
-var seconds = 00
-var miles = 00
+let seconds = 00
+let miles = 00
 
 //This code will run the stopwatch numbers
-var stopwatch_seconds = document.getElementById("seconds")
-var stopwatch_miles = document.getElementById("miles")
+let stopwatch_seconds = document.getElementById("seconds")
+let stopwatch_miles = document.getElementById("miles")
 
 //This will run the stopwatch 
-var stopwatch_start = document.getElementById("start")
-var stopwatch_stop = document.getElementById("stop")
-var interval;
+let stopwatch_start = document.getElementById("start")
+let stopwatch_stop = document.getElementById("stop")
+let interval;
 
 //This make the stopwatch work
 
